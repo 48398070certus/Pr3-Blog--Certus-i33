@@ -24,7 +24,8 @@ header{
     background-position:center; 
     background-attachment: cover;
 }
-header .menu{
+
+.menu{
     margin:30px 0;
     display:flex;
     justify-content: flex-end;
